@@ -1,0 +1,10 @@
+15:09:52.576 [main] INFO  api.tests.LogsPetTests - ********** Adding Pet  ***************
+15:09:57.797 [main] INFO  api.tests.LogsPetTests - ********** Added Pet  ***************
+15:09:57.805 [main] INFO  api.tests.LogsPetTests - ********** Getting Pet Data ***************
+15:09:58.940 [main] INFO  api.tests.LogsPetTests - ********** Pet Data Displayed ***************
+15:09:58.948 [main] INFO  api.tests.LogsPetTests - ********** Updating Pet data ***************
+15:10:00.157 [main] INFO  api.tests.LogsPetTests - ********** Pet data Updated ***************
+15:10:00.157 [main] INFO  api.tests.LogsPetTests - ********** Getting Updated Pet Data ***************
+15:10:01.293 [main] INFO  api.tests.LogsPetTests - ********** Updated Pet Data Displayed ***************
+15:10:01.300 [main] INFO  api.tests.LogsPetTests - ********** Deleting Pet ***************
+15:10:02.558 [main] INFO  api.tests.LogsPetTests - ********** Deleted Pet ***************

@@ -1,0 +1,11 @@
+14:25:01.506 [main] DEBUG api.tests.DDPetTests - debugging.....
+14:25:01.521 [main] INFO  api.tests.DDPetTests - ********** Adding Pet  ***************
+14:25:05.008 [main] INFO  api.tests.DDPetTests - ********** Added Pet  ***************
+14:25:05.014 [main] INFO  api.tests.DDPetTests - ********** Getting Pet Data ***************
+14:25:06.565 [main] INFO  api.tests.DDPetTests - ********** Pet Data Displayed ***************
+14:25:06.572 [main] INFO  api.tests.DDPetTests - ********** Updating Pet data ***************
+14:25:07.998 [main] INFO  api.tests.DDPetTests - ********** Pet data Updated ***************
+14:25:07.998 [main] INFO  api.tests.DDPetTests - ********** Getting Updated Pet Data ***************
+14:25:09.432 [main] INFO  api.tests.DDPetTests - ********** Updated Pet Data Displayed ***************
+14:25:09.436 [main] INFO  api.tests.DDPetTests - ********** Deleting Pet ***************
+14:25:10.951 [main] INFO  api.tests.DDPetTests - ********** Deleted Pet ***************

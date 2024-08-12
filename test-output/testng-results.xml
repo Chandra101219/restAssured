@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-08T10:13:17Z" name="Default suite" finished-at="2024-08-08T10:13:19Z" duration-ms="2745">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T10:13:17Z" name="Default test" finished-at="2024-08-08T10:13:19Z" duration-ms="2745">
+      <class name="api.tests.EmployeeTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.tests.EmployeeTests@1339e7aa]" started-at="2024-08-08T15:43:17Z" name="setupData" finished-at="2024-08-08T15:43:17Z" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testAddEmployee()[pri:1, instance:api.tests.EmployeeTests@1339e7aa]" started-at="2024-08-08T15:43:17Z" name="testAddEmployee" finished-at="2024-08-08T15:43:19Z" duration-ms="2306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddEmployee -->
+        <test-method signature="testGetEmployee()[pri:2, instance:api.tests.EmployeeTests@1339e7aa]" started-at="2024-08-08T15:43:19Z" name="testGetEmployee" finished-at="2024-08-08T15:43:19Z" depends-on-methods="api.tests.EmployeeTests.testAddEmployee" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetEmployee -->
+        <test-method signature="testUpdateEmployee()[pri:3, instance:api.tests.EmployeeTests@1339e7aa]" started-at="2024-08-08T15:43:19Z" name="testUpdateEmployee" finished-at="2024-08-08T15:43:19Z" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateEmployee -->
+        <test-method signature="testDeleteEmployee()[pri:4, instance:api.tests.EmployeeTests@1339e7aa]" started-at="2024-08-08T15:43:19Z" name="testDeleteEmployee" finished-at="2024-08-08T15:43:19Z" depends-on-methods="api.tests.EmployeeTests.testUpdateEmployee" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteEmployee -->
+      </class> <!-- api.tests.EmployeeTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
